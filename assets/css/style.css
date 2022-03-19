@@ -4,11 +4,13 @@
   padding: 0;
   margin: 0;
 }
-/*body background color*/
+
+/*Body styling*/
 body {
   background-color: #d9dcd6;
 }
-/*header styling*/
+
+/*Header styling*/
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -25,7 +27,7 @@ body {
 .header h1 .seo {
   color: #d9dcd6;
 }
-
+/*Navigation bar styling*/
 .header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -42,12 +44,14 @@ body {
   display: inline-block;
   margin-left: 25px;
 }
-/*navigation link styling*/
+
+/*Navigation bar link styling*/
 a {
   color: #ffffff;
   text-decoration: none;
 }
 
+/*Main website image styling*/
 .hero {
   height: 800px;
   width: 100%;
@@ -56,12 +60,15 @@ a {
   background-size: cover;
   background-position: center;
 }
+
+/*Content Styling*/
 .content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
 
+/*Articles Styling*/
 .arti-settings {
   margin-bottom: 20px;
   padding: 50px;
@@ -80,6 +87,7 @@ a {
   font-size: 36px;
 }
 
+/*Articles Image Orientation*/
 .float-left {
   float: left;
   margin-right: 25px;
@@ -90,10 +98,12 @@ a {
   margin-left: 25px;
 }
 
+/*Font size for all p elements in the website*/
 p {
   font-size: 16px;
 }
 
+/*Aside Section Styling*/
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -106,6 +116,7 @@ p {
   text-align: center;
 }
 
+/*Aside div elements styling*/
 .benefit-set {
   margin-bottom: 32px;
   color: #ffffff;
@@ -122,6 +133,7 @@ p {
   text-align: center;
 }
 
+/*Footer styling*/
 .footer {
   padding: 30px;
   clear: both;
